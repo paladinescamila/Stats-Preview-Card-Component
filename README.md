@@ -7,7 +7,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Links
 
 -   [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-componen-VHiHcHFpNk)
-
 -   [Live Site](https://spcc-frontend-mentor.netlify.app/)
 
 ## Built with
